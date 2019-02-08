@@ -49,7 +49,7 @@ h5{
   width:300px;
   height:300px;
   border-radius:150px;
-  background-image:url("/home/david/Documents/wednesday/accom.jpg");
+  background-image:url("../accom.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
@@ -62,7 +62,7 @@ h5{
   width:300px;
   height:300px;
   border-radius:150px;
-  background-image:url("/home/david/Documents/wednesday/bus.png");
+  background-image:url("../bus.png");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
@@ -74,7 +74,7 @@ h5{
   width:300px;
   height:300px;
   border-radius:150px;
-  background-image:url("/home/david/Documents/wednesday/casino.jpg");
+  background-image:url("../casino.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
@@ -86,7 +86,7 @@ h5{
   width:300px;
   height:300px;
   border-radius:150px;
-  background-image:url("/home/david/Documents/wednesday/food.jpg");
+  background-image:url("./food.jpg");
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
