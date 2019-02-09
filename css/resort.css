@@ -53,6 +53,7 @@ h5{
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
+  box-shadow:5px 5px 15px #000;
   overflow:hidden;
   float:left;
   margin:6px;
@@ -66,6 +67,7 @@ h5{
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
+  box-shadow:5px 5px 15px #000;
   overflow:hidden;
   float:left;
   margin:6px;
@@ -78,6 +80,7 @@ h5{
   background-repeat:no-repeat;
   background-size:cover;
   background-position:center;
+  box-shadow:5px 5px 15px #000;
   overflow:hidden;
   float:left;
   margin:6px;
@@ -92,9 +95,13 @@ h5{
   background-position:center;
   overflow:hidden;
   float:left;
+  box-shadow:5px 5px 15px #000;
 }
 .carry{
-  height:320px;
-  background-color:#fffff0;
+  height:420px;
+  background-image:url("../wall.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
   padding:12px;
 }
